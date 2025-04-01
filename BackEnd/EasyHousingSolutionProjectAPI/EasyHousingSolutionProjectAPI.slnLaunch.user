@@ -1,0 +1,19 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "EasyHousingSolutionProjectAPI.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\EasyHousingSolutionProjectAPITests\\EasyHousingSolutionProjectAPITests.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\PaymentGatewayMicroservice\\PaymentGatewayMicroservice.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

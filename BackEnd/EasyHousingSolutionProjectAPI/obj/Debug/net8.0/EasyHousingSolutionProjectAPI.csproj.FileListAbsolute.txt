@@ -1,0 +1,336 @@
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\EasyHousingSolutionProjectAPI.staticwebassets.endpoints.json
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\EasyHousingSolutionProjectAPI.exe
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\EasyHousingSolutionProjectAPI.deps.json
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\EasyHousingSolutionProjectAPI.runtimeconfig.json
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\EasyHousingSolutionProjectAPI.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\EasyHousingSolutionProjectAPI.pdb
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.csproj.AssemblyReference.cache
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.AssemblyInfoInputs.cache
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.AssemblyInfo.cs
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.csproj.CoreCompileInputs.cache
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\scopedcss\bundle\EasyHousingSolutionProjectAPI.styles.css
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.EasyHousingSolutionProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.EasyHousingSolutionProjectAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EasyHousingSolutionProjectAPI.props
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EasyHousingSolutionProjectAPI.props
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EasyHousingSolutionProjectAPI.props
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHous.AD430227.Up2Date
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\refint\EasyHousingSolutionProjectAPI.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.pdb
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.genruntimeconfig.cache
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\ref\EasyHousingSolutionProjectAPI.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Users\UVIJAYYE\Easy_Housing_Solution\Development\Source\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\appsettings.json
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\EasyHousingSolutionProjectAPI.staticwebassets.endpoints.json
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\EasyHousingSolutionProjectAPI.exe
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\EasyHousingSolutionProjectAPI.deps.json
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\EasyHousingSolutionProjectAPI.runtimeconfig.json
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\EasyHousingSolutionProjectAPI.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\EasyHousingSolutionProjectAPI.pdb
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Azure.Core.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Azure.Identity.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Humanizer.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Extensions.WebEncoders.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Mono.TextTemplating.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.ClientModel.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.CodeDom.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Composition.Convention.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Composition.Hosting.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Composition.Runtime.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Composition.TypedParts.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Memory.Data.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Text.Json.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.csproj.AssemblyReference.cache
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.AssemblyInfoInputs.cache
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.AssemblyInfo.cs
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.csproj.CoreCompileInputs.cache
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\scopedcss\bundle\EasyHousingSolutionProjectAPI.styles.css
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.EasyHousingSolutionProjectAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.EasyHousingSolutionProjectAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.EasyHousingSolutionProjectAPI.props
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.EasyHousingSolutionProjectAPI.props
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.EasyHousingSolutionProjectAPI.props
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHous.AD430227.Up2Date
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\refint\EasyHousingSolutionProjectAPI.dll
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.pdb
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\EasyHousingSolutionProjectAPI.genruntimeconfig.cache
+C:\Source Code\BackEnd\EasyHousingSolutionProjectAPI\obj\Debug\net8.0\ref\EasyHousingSolutionProjectAPI.dll

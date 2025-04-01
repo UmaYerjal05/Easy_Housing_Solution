@@ -1,0 +1,636 @@
+[
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/login/{Username}/{Password}/{UserType}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "Username",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": true
+      },
+      {
+        "Name": "UserType",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.AuthController",
+    "Method": "Register",
+    "RelativePath": "api/Auth/register",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userVM",
+        "Type": "EasyHousingSolutionProjectAPI.Models.UserVM",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.BuyerController",
+    "Method": "AddPropertyToWishList",
+    "RelativePath": "api/Buyer/AddToWishList/{buyerId}/{propertyId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "buyerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.BuyerController",
+    "Method": "DeletePropertyfromWishlist",
+    "RelativePath": "api/Buyer/DeletePropertyFromWishlist",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "buyerId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.BuyerController",
+    "Method": "GetBuyer",
+    "RelativePath": "api/Buyer/GetBuyerIdByUsername/{username}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.BuyerController",
+    "Method": "GetPropertyByRegion",
+    "RelativePath": "api/Buyer/GetPropertyByRegion/{region}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "region",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.BuyerController",
+    "Method": "GetPropertyByType",
+    "RelativePath": "api/Buyer/GetPropertyByType/{type}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.BuyerController",
+    "Method": "GetPropertyWithSellerContatctDetails",
+    "RelativePath": "api/Buyer/GetPropertyWithSellerContactDetails/{propertyId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.BuyerController",
+    "Method": "GetAllPropertyFromWishlist",
+    "RelativePath": "api/Buyer/GetWishlistPropertyDetails/{buyerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "buyerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.BuyerController",
+    "Method": "SortPropertyByPrice",
+    "RelativePath": "api/Buyer/SortPropertyByPrice",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "price",
+        "Type": "System.Decimal",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.BuyerController",
+    "Method": "GetPropertyDetails",
+    "RelativePath": "api/Buyer/ViewPropertyDetails/{propertyId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.PaymentController",
+    "Method": "GetPaymentRequestById",
+    "RelativePath": "api/Payment/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.PropertyController",
+    "Method": "DeactivateProperty",
+    "RelativePath": "api/Property/DeactivateProperty/{propertyId}/{reason}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "reason",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.PropertyController",
+    "Method": "GetAllProperty",
+    "RelativePath": "api/Property/GetAllProperty",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.PropertyController",
+    "Method": "getAllSellers",
+    "RelativePath": "api/Property/GetAllSellers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.PropertyController",
+    "Method": "GetPropertyByType",
+    "RelativePath": "api/Property/GetPropertyType/{type}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "type",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.PropertyController",
+    "Method": "GetPropertiesByOwner",
+    "RelativePath": "api/Property/propertiesByOwner/{sellerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sellerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.PropertyController",
+    "Method": "GetPropertiesByRegion",
+    "RelativePath": "api/Property/propertiesByRegion/{region}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "region",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.PropertyController",
+    "Method": "VerifyProperty",
+    "RelativePath": "api/Property/VerifyProperty/{propertyId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.SellerController",
+    "Method": "AddProperty",
+    "RelativePath": "api/Seller/add-property",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "property",
+        "Type": "EasyHousingSolutionProjectAPI.Models.Property",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.SellerController",
+    "Method": "GetDeactivatedPropertiesByOwner",
+    "RelativePath": "api/Seller/deactivated-properties/{sellerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sellerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.SellerController",
+    "Method": "EditProperty",
+    "RelativePath": "api/Seller/edit-property",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "property",
+        "Type": "EasyHousingSolutionProjectAPI.Models.Property",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.SellerController",
+    "Method": "GetAllProperties",
+    "RelativePath": "api/Seller/GetAllProperties",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.SellerController",
+    "Method": "GetCities",
+    "RelativePath": "api/Seller/GetCitiesByStateId/{stateId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "stateId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.SellerController",
+    "Method": "GetImagesByPropertyId",
+    "RelativePath": "api/Seller/GetImagesByPropertyId/{propertyId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.SellerController",
+    "Method": "GetPropertiesBySellerId",
+    "RelativePath": "api/Seller/GetPropertiesBySellerId/{sellerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sellerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.SellerController",
+    "Method": "GetPropertiesBySellerName",
+    "RelativePath": "api/Seller/GetPropertiesBySellerName/{sellerName}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sellerName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.SellerController",
+    "Method": "GetSellerIdByUsername",
+    "RelativePath": "api/Seller/GetSellerIdByUsername/{username}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.SellerController",
+    "Method": "GetPropertyDetails",
+    "RelativePath": "api/Seller/property-details/{propertyId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.SellerController",
+    "Method": "GetStates",
+    "RelativePath": "api/Seller/states",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.SellerController",
+    "Method": "UploadImage",
+    "RelativePath": "api/Seller/UploadImage/{propertyId}",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "files",
+        "Type": "Microsoft.AspNetCore.Http.IFormFileCollection",
+        "IsRequired": false
+      },
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.SellerController",
+    "Method": "GetVerifiedPropertiesByOwner",
+    "RelativePath": "api/Seller/verified-properties/{sellerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "sellerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.WishlistController",
+    "Method": "AddToWishlist",
+    "RelativePath": "api/Wishlist/AddToWishlist",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "buyerId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      },
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.WishlistController",
+    "Method": "GetWishLists",
+    "RelativePath": "api/Wishlist/GetWishLists/{buyerId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "buyerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "EasyHousingSolutionProjectAPI.Controllers.WishlistController",
+    "Method": "RemoveFromWishlist",
+    "RelativePath": "api/Wishlist/RemoveFromWishlist/{buyerId}/{propertyId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "buyerId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ImageController",
+    "Method": "DeleteImage",
+    "RelativePath": "DeleteImage/{imageId}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "imageId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ImageController",
+    "Method": "GetImagesByProperty",
+    "RelativePath": "GetImagesByProperty/{propertyId}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ImageController",
+    "Method": "UploadImage",
+    "RelativePath": "UploadImage",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "files",
+        "Type": "Microsoft.AspNetCore.Http.IFormFileCollection",
+        "IsRequired": false
+      },
+      {
+        "Name": "propertyId",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

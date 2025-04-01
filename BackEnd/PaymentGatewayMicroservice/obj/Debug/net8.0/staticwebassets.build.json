@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "dAEthnufSZc/ASDoVXbaWQjEvuH7rNkLbDD/NS2jpUo=",
+  "Source": "PaymentGatewayMicroservice",
+  "BasePath": "_content/PaymentGatewayMicroservice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
